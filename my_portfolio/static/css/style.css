@@ -1,0 +1,69 @@
+body{
+  background-image: url('/static/css/amir1.jpeg');
+  background-size: 1450px 725px;
+}
+
+.navbar {
+  background-color: transparent!important;
+
+}
+.navbar .navbar-nav{
+  margin: auto;
+  font-size: 20px;
+  width: 300px;
+  padding: 100px;
+ 
+
+}
+.navbar {
+  min-height: 50px;
+}
+
+.nav-item{
+  padding: 25px;
+}
+.web{
+  background-color: ;
+  width: 600px;
+  padding: 25px;
+  font-size: 1000px;
+  font-style: oblique;
+  margin: auto;
+  border-style: outset;
+  border-color:beige;
+  border-width: 5px;
+ 
+}
+@media screen and (min-width: 480px){
+.card{
+  background-image: url('/static/css/amir1.jpeg');
+  background-size: 1450px 725px;
+  padding: 25px 50px ;
+  margin: 25px;
+
+
+    }
+}
+      
+h1{
+  text-align: center;
+  letter-spacing: 3px;
+  text-shadow: 3px 2px ;
+}
+p{
+  font-family: verdana;
+  font-size: 20px;
+}
+
+h3 {
+  font-size: 30px;
+  text-align: center
+}
+h4 {
+  font-size: 30px;
+  text-align: center
+}
+li{
+  
+  text-align: center
+}
